@@ -17,7 +17,7 @@ deno run -A main.ts
 To compile and run the application, use:
 
 ```bash
-deno compile -A main.ts main.ts
+deno compile -A main.ts
 ./deno-example
 ```
 
